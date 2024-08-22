@@ -156,7 +156,7 @@ export default function Home() {
               <td className="py-3 px-6 text-left">{employee.dateOfBirth}</td>
               <td className="py-3 px-6 text-center">
                 <img
-                  className="w-12 h-12  object-cover"
+                  className="w-20 h-20  object-cover"
                   src={employee.image}
                   alt={employee.employeeName}
                 />
