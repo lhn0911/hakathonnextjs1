@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "employeeName": "Nguyễn Văn A",
+    "dateOfBirth": "01/01/1999",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7f4x7MpLqixMRcA8elHvhI6Xu3ll0gd105bfysPxl9BNwaIq",
+    "email": "nguyenvana@example.com"
+  },
+  {
+    "id": 2,
+    "employeeName": "Trần Thị B",
+    "dateOfBirth": "15/05/1985",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFBNTdNFBAsnNDhZY0AMPyXt5NPXUh2Ii2meDrGeFyHxCj2svA",
+    "email": "tranthib@example.com"
+  },
+  {
+    "id": 3,
+    "employeeName": "Phạm Văn C",
+    "dateOfBirth": "09/07/2000",
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZEPvw4yrXU0SaWJqUO5pTDlgnnThbLbUJCLuMC-3-EleuJpTV",
+    "email": "phamvanc@example.com"
+  },
+  {
+    "id": 4,
+    "employeeName": "Lê Thị D",
+    "dateOfBirth": "12/04/2004",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtV1GtIlnfN_Azc68_CELHqgExOHTjExu-gIvci9zAzhg1VOl0",
+    "email": "lethid@example.com"
+  }
+]
